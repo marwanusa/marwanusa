@@ -6,12 +6,11 @@
 <a href="https://codepen.io/marwan-usama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marwan-usama" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/marwan-usama-a393b42a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-usama" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/marwanusa" target="_blank">
-    <img align="center" src="https://www.codewars.com/packs/media/logo-cccf000ec0049f6e5a1596d6ca560cc92ed2f03a7079b01d9d1d1c92ba1f4f03.png" alt="marwanusa" height="30" width="40" />
+    <img align="center" src="https://icons8.com/icon/gDJDJJ1MCGmG/codewars" alt="marwanusa" height="30" width="40" />
   </a>
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marwanusa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marwanusa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanusa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
