@@ -6,7 +6,7 @@
 <a href="https://codepen.io/marwan-usama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marwan-usama" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/marwan-usama-a393b42a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-usama" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/marwanusa" target="_blank">
-    <img align="center" src="https://icons8.com/icon/gDJDJJ1MCGmG/codewars" alt="marwanusa" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="marwanusa" height="30" width="40" />
   </a>
 </p>
 
