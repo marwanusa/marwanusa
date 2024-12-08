@@ -8,6 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="70" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="70" alt="bootstrap logo" />
   </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marwanusa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanusa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -23,4 +24,3 @@
     <img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="marwanusa" height="30" width="40" />
   </a>
 </p>
-
