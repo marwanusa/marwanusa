@@ -9,12 +9,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="70" alt="bootstrap logo" />
   </div>
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marwanusa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanusa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marwanusa&icon=0&color=0)](https://visitcount.itsvg.in)
+![Codewars Badge](https://www.codewars.com/users/marwanusa/badges/large)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +25,4 @@
     <img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="marwanusa" height="30" width="40" />
   </a>
 </p>
+
